@@ -1,3 +1,3 @@
-A set of files to play the board game Othello (http://en.wikipedia.org/wiki/Reversi). Most of the files were 
-written by my 11th grade AP CS teacher, but all of the files with "*Player" were written by me. StackPlayer.java,
-in particular, uses Minimax and Alpha-Beta Pruning to look 6 moves ahead in under a second.
+A set of files to play the board game Othello (http://en.wikipedia.org/wiki/Reversi). Most of the files were written by my 11th grade AP CS teacher, but all of the files with "*Player" were written by me. StackPlayer.java, in particular, uses Minimax and Alpha-Beta Pruning to look 6 moves ahead in under a second.
+
+This code was originally written in spring of 2013, but uploaded to github in the fall.
